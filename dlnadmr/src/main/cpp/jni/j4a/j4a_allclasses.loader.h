@@ -1,0 +1,2 @@
+J4A_LOAD_CLASS(android_os_Build);
+J4A_LOAD_CLASS(com_show_dlnadmr_jni_PlatinumReflection);
